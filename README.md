@@ -49,4 +49,4 @@ The ESP8266 part of ESP14 needs to handle receiving GCODE via wifi and sending t
 See bp-ESP.forth for current punyforth code.
 
 ## Effector
-To be decided, though it has to be soon.
+To be decided, though it has to be soon. 
